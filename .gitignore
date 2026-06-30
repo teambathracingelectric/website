@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+
+# astro
+/.astro/
+/dist/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# local env files
+.env
+.env*.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# macos
+.DS_Store
+
+# ide
+.idea
+# .vscode
